@@ -1,6 +1,4 @@
-## Hello, my name is oDelfin, I'm here to make my code available to the world.
-
-![officialdelffin GitHub stats](https://github-readme-stats.vercel.app/api?username=officialdelffin&show_icons=true&theme=dark)
+# Hello, my name is oDelfin, I'm here to make my code available to the world.
 
 ## Technologies that I use in my day
 
