@@ -23,8 +23,8 @@ Minha atuação prática abrange o desenvolvimento Android nativo utilizando Kot
 
 ### Contato
 
-E-mail: delfinocordeirolucas@gmail.com
+delfinocordeirolucas@gmail.com
 
-LinkedIn: [lucasdelfinocordeiro](https://www.linkedin.com/in/seu-perfil)
+[lucasdelfinocordeiro](https://www.linkedin.com/in/seu-perfil)
   
 ###  
