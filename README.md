@@ -1,6 +1,9 @@
 
 
-###Me chamo Lucas Delfino Cordeiro e sou graduado em Análise e Desenvolvimento de Sistemas, com atuação na área de Controladoria, parametrização e gestão de sistemas ERP, além de desenvolvedor Android nativo com Kotlin e Java.
+### Seja bem-vindo!
+
+
+Me chamo Lucas Delfino Cordeiro e sou graduado em Análise e Desenvolvimento de Sistemas, com atuação na área de Controladoria, parametrização e gestão de sistemas ERP, além de desenvolvedor Android nativo com Kotlin e Java.
 
 
 ---
