@@ -1,10 +1,4 @@
-
 ###  
-
-###  
-
----
-
 ###  
 
 ### Seja bem-vindo!
@@ -34,7 +28,6 @@ Minha atuação prática abrange o desenvolvimento Android nativo utilizando Kot
 delfinocordeirolucas@gmail.com
 
 [lucasdelfinocordeiro](https://www.linkedin.com/in/seu-perfil)
-
----
   
+###  
 ###  
