@@ -39,3 +39,5 @@ Minha atuação prática abrange o desenvolvimento Android nativo utilizando Kot
 
 ---
  
+
+ 
