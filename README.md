@@ -16,12 +16,3 @@ Minha atuação prática abrange o desenvolvimento Android nativo utilizando Kot
 
 ###  
 ###  
-
-### Contato
-
-workdelffin@gmail.com
-
-[lucasdelfinocordeiro](https://www.linkedin.com/in/odelffin)
-  
-###  
-###  
