@@ -7,7 +7,8 @@
 
 Me chamo Lucas Delfino Cordeiro e sou graduado em Análise e Desenvolvimento de Sistemas, com atuação na área de Controladoria, parametrização e gestão de sistemas ERP, além de desenvolvedor Android nativo com Kotlin e Java.
 
----
+###  
+###  
 
 ### Sobre mim
 
@@ -15,13 +16,15 @@ Desenvolvo aplicações mobile nativas para a plataforma Android com foco em arq
 
 No ambiente corporativo, atuo no mapeamento e reestruturação de fluxos de trabalho, integração de processos entre setores, automação de rotinas e parametrização de ERPs, garantindo a acurácia de dados e a geração de relatórios gerenciais para apoio à tomada de decisão estratégicas. Mantenho uma rotina constante de estudos e projetos independentes para aprimorar competências no ecossistema mobile e acompanhar a evolução das tecnologias do mercado.
 
----
+### 
+###  
 
 ### Tecnologias e Ferramentas
 
 Minha atuação prática abrange o desenvolvimento Android nativo utilizando Kotlin e Java, Android SDK, Android Jetpack, consumo de APIs REST com Retrofit, persistência de dados locais com Room e SQLite, controle de versão com Git e GitHub, além de práticas de Clean Code e Clean Architecture. Na gestão corporativa, possuo experiência com parametrizações no ERP TecFood Teknisa, estruturação de rotinas de compras, financeiro, fiscal e gestão de estoque.
 
----
+###  
+###  
 
 ### Contato
 
