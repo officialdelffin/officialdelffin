@@ -1,15 +1,6 @@
 ###  
 ###  
 
-### Seja bem-vindo!
-
-###  
-
-Me chamo Lucas Delfino Cordeiro e sou graduado em Análise e Desenvolvimento de Sistemas, com atuação na área de Controladoria, parametrização e gestão de sistemas ERP, além de desenvolvedor Android nativo com Kotlin e Java.
-
-###  
-###  
-
 ### Sobre mim
 
 Desenvolvo aplicações mobile nativas para a plataforma Android com foco em arquiteturas modernas como MVVM e Clean Architecture, escalabilidade, segurança e escrita de código limpo. Busco unir a eficiência técnica da estrutura com a criação de interfaces minimalistas voltadas para uma excelente experiência do usuário. 
